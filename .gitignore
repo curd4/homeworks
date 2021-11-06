@@ -33,3 +33,9 @@ hs_err_pid*
 /MyJavaLibrary/dist/
 /MyJavaLibrary/build/
 /JavaLibrary3/nbproject/private/
+/MyMasthLIbraryTester/nbproject/private/
+/MyMasthLIbraryTester/build/
+/MyMathLibrary/nbproject/private/
+/MyMathLibrary/build/
+/MyMathLibrary/dist/
+/MyMasthLIbraryTester/dist/
