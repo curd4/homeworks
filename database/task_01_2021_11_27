@@ -1,0 +1,25 @@
+select * from  Person;
+insert into Person
+(FIO)
+values 
+('Ivanov Petr');
+insert into Person
+(FIO)
+values 
+('Petrov Ivan');
+insert into Person
+(FIO)
+values 
+('Sidorov Max');
+update
+Person
+set name = 'ID'
+where Person.id = 0;
+delete from Person
+where Person.FIO =  'Sidorov Max';
+
+select * from Admins;
+insert into admins
+(login, email, pass)
+values
+('admin', 'admin123@gmail.com', '123');
